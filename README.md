@@ -8,9 +8,9 @@ The current materials are archived as synchronized ChatGPT exports in Markdown, 
 ## Problem Definition
 The central hypothesis is that the dense-flow threshold is controlled by
 
-\[
+$$
 \varepsilon = \tan\theta - \mu_r,
-\]
+$$
 
 where `\mu_r` is treated as the critical friction and `\varepsilon` is the distance to criticality.
 
@@ -22,9 +22,9 @@ From this viewpoint:
 
 The key target is the fully developed velocity law, often written in nondimensional form as
 
-\[
+$$
 v_\infty \sim \mu_r^{3/2}(\varepsilon h)^{4/3},
-\]
+$$
 
 and the related development length scaling. The main question is whether the exponent `4/3` is a genuine anomalous exponent produced by incomplete similarity, with grain size or nonlocal structure remaining asymptotically relevant.
 
